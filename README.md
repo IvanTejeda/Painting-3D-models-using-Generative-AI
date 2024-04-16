@@ -14,3 +14,5 @@ Rendered a 3D mesh of a cow with it's texture
     <li>Used ControlNet with prompt and 2D rendered images as inputs, instead of prompt and texture image. This led to better AI-generated images.</li>
     <li>Developed algorithm to paint 3D object given AI-generated 2D image from the last step.</li>
 </ul>
+
+Check out the source code for the results!
